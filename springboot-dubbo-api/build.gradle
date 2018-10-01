@@ -1,0 +1,24 @@
+buildscript {
+    ext {
+        springBootVersion = '1.5.16.RELEASE'
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+group = 'org.aaron'
+version = '0.0.1-SNAPSHOT'
+archivesBaseName = "springboot-dubbo-api"
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    baseName = "$project.name"
+    version = version + ".RELEASE"
+}

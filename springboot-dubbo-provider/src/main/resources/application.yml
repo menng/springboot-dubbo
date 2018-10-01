@@ -1,0 +1,8 @@
+server:
+  port: 8888
+
+zookeeper:
+  address: 127.0.0.1:2181
+
+dubbo:
+  port: 12021
