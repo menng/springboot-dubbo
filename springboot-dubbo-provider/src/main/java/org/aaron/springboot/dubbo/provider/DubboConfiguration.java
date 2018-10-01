@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * dubbo配置
+ * Dubbo配置
  * created by Menng on 2018/9/30 16:30
  */
 @Configuration

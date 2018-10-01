@@ -13,6 +13,6 @@ public class DemoServiceImpl implements DemoService {
 
     @Override
     public String sayHello() {
-        return "Hello dubbo 2.6.3";
+        return "Hello Springboot Dubbo";
     }
 }
