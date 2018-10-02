@@ -9,7 +9,11 @@ Springboot结合Dubbo项目示例
 3. 浏览器访问 localhost:8080/hello
 
 ### 依赖
-- gradle-4.9
+- jdk1.8
 - springboot-1.15.16
 - dubbo-2.6.3
 - zookeeper-3.4.12
+
+### 工具
+- gradle-4.9
+- IDEA

@@ -17,7 +17,6 @@ public class DubboConfiguration {
     @Value("${zookeeper.address}")
     private String zkAddress;
 
-
     @Bean
     public RegistryConfig registryConfig() {
         RegistryConfig registryConfig = new RegistryConfig();
