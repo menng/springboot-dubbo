@@ -1,6 +1,6 @@
-Springboot结合Dubbo项目示例
+Springboot集成Dubbo注解版项目示例
 ---
-此项目是Springboot结合Dubbo的示例，基于注解的方式。
+此项目是Springboot集成Dubbo的示例，基于注解的方式。
 参考文档[注解配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
 
 ### 启动
