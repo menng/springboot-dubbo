@@ -17,3 +17,6 @@ Springboot集成Dubbo注解版项目示例
 ### 工具
 - gradle-4.9
 - IDEA
+
+### 博客文章
+[springboot集成dubbo注解版](https://mengyf.com/2018/10/04/springboot-dubbo-demo.html)
